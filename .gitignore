@@ -1,0 +1,9 @@
+/libs
+/build
+/android
+/webroot
+/release
+/bin/*
+!/bin/res
+!/bin/index.html
+!/bin/unpack.json
